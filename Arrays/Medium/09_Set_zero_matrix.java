@@ -65,7 +65,6 @@ class Solution {
 
         // int N = matrix.length;
         // int M = matrix[0].length;
-
         // int[] rows = new int[N];
         // int[] cols = new int[M];
 
@@ -85,7 +84,10 @@ class Solution {
         // }
         // }
         // }
+
         // TC: O(N * M) -> O(N ^ 2) SC: O(N + M)
+
+        // -----------------------------------------------------------------
 
         // OPTIMAL SOLUTION:
 
